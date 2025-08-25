@@ -1,5 +1,8 @@
-Spotify Web Player Clone
-[![License: MIT](https://img.shields.io/badge/License of the Spotify Web Player, built with pure HTML and CSS. This project replicates Spotify’s signature UI—sidebar navigation, playlists, trending sections, and a fixed music player bar—delivering a sleek, dark-themed, modern web layout.
+# Spotify Web Player Clone
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+A visually accurate and responsive clone of the Spotify Web Player, built with pure HTML and CSS. This project replicates Spotify’s signature UI—sidebar navigation, playlists, trending sections, and a fixed music player bar—delivering a sleek, dark-themed, modern web layout.
 
 Table of Contents
 Project Description
