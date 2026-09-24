@@ -57,8 +57,6 @@ To contribute:
 - Commit your changes (`git commit -m "Add feature"`)  
 - Push and open a Pull Request  
 
-## License
 
-This project is licensed under the MIT License.
 
 
